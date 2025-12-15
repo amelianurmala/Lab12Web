@@ -3,9 +3,13 @@
 # Praktikum 12: Autentikasi dan Session
 
 *Nama            : Amelia Nurmala Dewi*
+
 *Kelas           : TI.24.A2*
+
 *NIM             : 312410199*
+
 *Mata Kuliah     : Pemrograman Web 1*
+
 *Dosen Pengampu  : Agung Nugroho, S.Kom., M.Kom.*
 
 ---
